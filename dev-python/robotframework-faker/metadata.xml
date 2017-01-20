@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+	<maintainer type="person">
+		<email>kballou@devnulllabs.io</email>
+		<name>Kenny Ballou</name>
+	</maintainer>
+	<longdescription lang="en">
+		Robot Framework keyword library wrapper for Faker
+	</longdescription>
+	<upstream>
+		<remote-id type="pypi">robotframework-faker</remote-id>
+		<remote-id type="github">guykisel/robotframework-faker</remote-id>
+	</upstream>
+</pkgmetadata>
